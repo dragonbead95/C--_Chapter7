@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_04_DerivDestOrder_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_05_DestModel_293p", "Chapter7_05_DestModel_293p\Chapter7_05_DestModel_293p.vcxproj", "{440DA0AE-E16A-4A8F-8C21-C487A8EAEBB4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_06_Problem1_294p", "Chapter7_06_Problem1_294p\Chapter7_06_Problem1_294p.vcxproj", "{CE102CE5-4C2A-4372-A015-47C567F5352D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{440DA0AE-E16A-4A8F-8C21-C487A8EAEBB4}.Release|x64.Build.0 = Release|x64
 		{440DA0AE-E16A-4A8F-8C21-C487A8EAEBB4}.Release|x86.ActiveCfg = Release|Win32
 		{440DA0AE-E16A-4A8F-8C21-C487A8EAEBB4}.Release|x86.Build.0 = Release|Win32
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Debug|x64.ActiveCfg = Debug|x64
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Debug|x64.Build.0 = Debug|x64
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Debug|x86.Build.0 = Debug|Win32
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Release|x64.ActiveCfg = Release|x64
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Release|x64.Build.0 = Release|x64
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Release|x86.ActiveCfg = Release|Win32
+		{CE102CE5-4C2A-4372-A015-47C567F5352D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
