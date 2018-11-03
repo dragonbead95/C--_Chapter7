@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_12_Problem07-2-01_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_13_Problem07-2-02_312p", "Chapter7_13_Problem07-2-02_312p\Chapter7_13_Problem07-2-02_312p.vcxproj", "{A7BB7754-3584-4522-BA1F-F8C88F8DEE2A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7_14_BankingSystemVer05_315p", "Chapter7_14_BankingSystemVer05_315p\Chapter7_14_BankingSystemVer05_315p.vcxproj", "{4786F1FC-65EB-4516-A828-89C3966F434C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{A7BB7754-3584-4522-BA1F-F8C88F8DEE2A}.Release|x64.Build.0 = Release|x64
 		{A7BB7754-3584-4522-BA1F-F8C88F8DEE2A}.Release|x86.ActiveCfg = Release|Win32
 		{A7BB7754-3584-4522-BA1F-F8C88F8DEE2A}.Release|x86.Build.0 = Release|Win32
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Debug|x64.ActiveCfg = Debug|x64
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Debug|x64.Build.0 = Debug|x64
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Debug|x86.ActiveCfg = Debug|Win32
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Debug|x86.Build.0 = Debug|Win32
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Release|x64.ActiveCfg = Release|x64
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Release|x64.Build.0 = Release|x64
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Release|x86.ActiveCfg = Release|Win32
+		{4786F1FC-65EB-4516-A828-89C3966F434C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
